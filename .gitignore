@@ -1,0 +1,7 @@
+*.mp4
+test.ipynb
+Car_License_Plates-1
+*.pth
+Output.avi
+venv
+venv/
