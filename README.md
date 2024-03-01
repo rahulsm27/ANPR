@@ -1,6 +1,7 @@
 # Automatic Number Plate Recognition (ANPR) system using YOLO (You Only Look Once) 
 
-## The repo demonstrates how we can use YOLO model to detect a license plate in a video
+
+ The repo demonstrates how we can use YOLO model to detect a license plate in a video
 
 
 1. Data Collection: Gather a large dataset of images containing vehicles with number plates. 
